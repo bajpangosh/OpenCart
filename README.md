@@ -13,6 +13,6 @@ This LEMP stack is that fastest way to start running OpenCart on your server. Us
 
 > Mariadb (updated)
 
-> Wordpress (updated)
+> OpenCart (updated)
 
 `wget -qO oc-u18-04 run.kloudboy.com/oc-u18-04 && sudo bash oc-u18-04`
